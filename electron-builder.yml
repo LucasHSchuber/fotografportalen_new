@@ -42,6 +42,6 @@ appImage:
 npmRebuild: false
 publish:
   provider: github
-  repository: LucasHSchuber/fotografportalen_new
-  releaseType: draft
-
+  owner: LucasHSchuber
+  repo: LucasHSchuber/fotografportalen_new
+  branch: main
