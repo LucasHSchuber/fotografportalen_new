@@ -42,6 +42,7 @@ appImage:
 npmRebuild: false
 publish:
   provider: github
-  repository: LucasHSchuber/fotografportalen_new
-  releaseType: draft
-
+  owner: LucasHSchuber
+  repo: fotografportalen_new
+  releaseType: release
+  token: $GH_TOKEN
